@@ -1,5 +1,6 @@
 # Busisiwe_Portfolio
 My Marketing, Sales & CX Project Case Studies
+
 📌 Case Study 1: Improving Taxpayer Engagement & Compliance
 
 Role: Tax Debtor Consultant, SARS
@@ -17,6 +18,7 @@ Results:
 	•	Streamlined reporting improved filing accuracy and reduced admin time by 18%.
 
 Takeaway: Clear communication and proactive support drastically reduce compliance issues and increase trust in public institutions.
+
 📌 Case Study 2: Boosting Customer Retention Through Personalized Campaigns
 
 Role: Customer Service Representative, Astral Group
